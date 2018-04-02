@@ -1,0 +1,57 @@
+{
+    "titulo":"A Way Software",
+    "email":"away.info@gmail.com",
+    "nombre_corto":"A Way Software",
+    "pagina_autor":"http://away-soft.epizy.com",
+    "facebook":"http://facebook.com",
+    "twitter":"http://twitter.com",
+    "imstragram":"http://instragam.com",
+    "equipo_trabajo":
+    [],
+    "productos":[
+        {
+            "id": 0,
+            "nombre":"Producto 1",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        },
+        {
+            "id": 1,
+            "nombre":"Producto 1",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        },
+        {
+            "id": 2,
+            "nombre":"Producto 2",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        },
+        {
+            "id": 3,
+            "nombre":"Producto 3",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        },
+        {
+            "id": 3,
+            "nombre":"Producto 3",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        },
+        {
+            "id": 4,
+            "nombre":"Producto 4",
+            "descripcion": "asassas .klskalsk.qpwoiqpwouer opqiwureywqpu qpwiuer",
+            "obs": "HJHAJBHDSAJBD KSAJHDJK",
+            "val": "$200"
+        }
+
+    ]
+
+}
